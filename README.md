@@ -1,2 +1,2 @@
-# JavaScript-projects-
+# JavaScript-projects-counter-app
 Author - "Yash Garg"
